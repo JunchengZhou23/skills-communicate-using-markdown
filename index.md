@@ -1,2 +1,5 @@
-# try to add a picture
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# try to add a code example
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
